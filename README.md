@@ -1,1 +1,1 @@
-# rofi
+# Some rofi scripts
